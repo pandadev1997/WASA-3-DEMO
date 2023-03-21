@@ -7,5 +7,7 @@ public class Practice {
 	public void run() {
 		System.out.println("this is our 1st prgrm");
 	}
-
+public void sample() {
+	System.out.println("run");
+}
 }
