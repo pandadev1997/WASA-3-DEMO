@@ -9,5 +9,7 @@ public class Practice {
 	}
 public void sample() {
 	System.out.println("run");
+	
+	System.out.println("run the code");
 }
 }
