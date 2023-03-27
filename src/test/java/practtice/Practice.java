@@ -10,6 +10,7 @@ public class Practice {
 public void sample() {
 	System.out.println("run");
 	
-	System.out.println("run the code");
+	System.out.println("run the code1");
+	System.out.println("run nn nn ");
 }
 }
